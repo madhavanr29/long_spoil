@@ -2,6 +2,7 @@
 
 This repository contains the code and notebooks for the Clickbait Spoiling project. The project consists of two tasks: Task 1 is to classify clickbait types (phrase, passage, multi) and Task 2 is to generate spoilers for each clickbait type.
 
+### All trained model checkpoints can be found here https://drive.google.com/drive/folders/1qZouYHHMFS_FaCHD4CQTm--HAay2pCIq?usp=share_link
 ## Directory Structure ( within my_countributions_mrangara )
 
 - `baseline_milestone_2/task1`
