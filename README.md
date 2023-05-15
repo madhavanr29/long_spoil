@@ -2,7 +2,7 @@
 
 This repository contains the code and notebooks for the Clickbait Spoiling project. The project consists of two tasks: Task 1 is to classify clickbait types (phrase, passage, multi) and Task 2 is to generate spoilers for each clickbait type.
 
-## Directory Structure
+## Directory Structure ( within my_countributions_mrangara )
 
 - `baseline_milestone_2/task1`
   - `classification.ipynb`: LSTM based model for Task 1 - Clickbait Classification.
