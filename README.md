@@ -1,7 +1,7 @@
 # Clickbait Spoiling Repository
 
 This study delves into ’clickbait spoiling,’ generating text that satisfies curiosity stirred by a clickbait post. We refine prior methodologies by incorporating an additional spoiler type (multi) and by employing various transformerbased models for classification and generation tasks. We use BERT based models and GPT-3 for spoiler classification and utilize Text-to-Text Transformers such as T5 Base, LED, and Long T5 for spoiler generation. The ROBERTA-base model outperforms in spoiler type classification with an F1 score of 70.38. For spoiler generation, Long T5 shows promising results with the highest BLEU scores across ’passage’ and ’multi’ spoiler types. Evaluated on the Webis Clickbait Spoiling Corpus 2022, our results highlight the potential of longer models such as Long T5 in ClickbaitSpoiling. We observe a marked improvement in
-spoilers for ’passage’ and ’multi’ types, hinting at the efficacy of utilizing abstractive question answering and longer models for the spoilergeneration task.
+spoilers for ’passage’ and ’multi’ types, hinting at the efficacy of utilizing abstractive question answering and longer models for the spoiler generation task.
 
 ### All trained model checkpoints for the models below can be found here https://drive.google.com/drive/folders/1qZouYHHMFS_FaCHD4CQTm--HAay2pCIq?usp=share_link
 ## Directory Structure ( within my_countributions_mrangara )
